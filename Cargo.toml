@@ -2,9 +2,9 @@
 name = "l1x-wasm-llvmir"
 version = "0.2.1"
 edition = "2021"
-authors = ["The L1X Project Developers"]
+authors = ["L1XFoundation"]
 description = "WASM to LLVMIR translator for the L1X project"
-license = "Apache-2.0"
+license = "Polyform-Perimeter-1.0.0"
 keywords = ["l1x"]
 homepage = "https://github.com/L1X-Foundation"
 
